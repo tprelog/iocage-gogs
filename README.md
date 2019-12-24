@@ -1,4 +1,7 @@
-### Gogs plugin for FreeNAS 11
+# iocage-gogs
+Artifact file(s) for [Gogs](https://gogs.io/)
+
+#### Gogs plugin for FreeNAS 11
 
 - This branch is for FreeNAS 11.3
 

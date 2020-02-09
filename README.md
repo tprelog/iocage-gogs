@@ -1,14 +1,10 @@
 # iocage-gogs
-Artifact file(s) for [Gogs](https://gogs.io/)
+Artifact file(s) for [Gogs][1]
 
-#### Gogs plugin for FreeNAS 11
+- This is the 11.3-RELEASE branch
+- The plugin manfest can be found [HERE][2]
 
-- This branch is for FreeNAS 11.3
+**This branch is intended for FreeNAS 11.3 but should work with FreeNAS 11.2-U7 or later**
 
-**Download plugin and install**
-
-    wget -O /tmp/gogs.json https://raw.githubusercontent.com/tprelog/iocage-gogs/11.3-RELEASE/gogs.json
-    sudo iocage fetch -P /tmp/gogs.json --branch '11.3-RELEASE'
-
-- Last tested on FreeNAS-11.3-RC1
-- More information about [iocage plugins](https://doc.freenas.org/11.3/plugins.html) and [iocage jails](https://doc.freenas.org/11.3/jails.html) can be found in the [FreeNAS guide](https://doc.freenas.org/11.3/intro.html#introduction)
+[1]: https://gogs.io/
+[2]: https://github.com/tprelog/freenas-plugin-index

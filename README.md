@@ -3,7 +3,7 @@ Artifact file(s) for [Gogs][1]
 
 ### This is a [FreeNAS Community Plugin][2]
 
-**The current release is intended for FreeNAS 11.3 but should work with FreeNAS-11.2-U7 or later**
+**The current release is intended for FreeNAS 11.3 but should work with FreeNAS 11.2-U7 or later**
 
 - This will create an 11.3-RELEASE iocage-jail for [Gogs][1]
 
@@ -26,7 +26,7 @@ Gogs | gogs | 3000 | git |  /var/db/gogs
 
 ##### plugin-jail
 
-*The 11.3-RELEASE should work on FreeNAS-11.2-U7 or later*
+*The 11.3-RELEASE should work on FreeNAS 11.2-U7 or later*
 
 It is possible to install this plugin on FreeNAS 11.2-U7 using the console.
 

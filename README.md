@@ -14,7 +14,7 @@ Gogs | gogs | 3000 | git |  /var/db/gogs
 
 #### Installation
 
-**Gogs is available from the Communtity Plugins page on FreeNAS 11.3**
+**Gogs is available from the Community Plugins page on FreeNAS 11.3**
 
 ![img][FreeNAS_plugins]
 
